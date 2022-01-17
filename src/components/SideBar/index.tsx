@@ -27,12 +27,12 @@ const SideBar: React.FC = () => {
           title="Talvez você curta"
           elements={[
             <FollowSuggestion 
-            name="Kleber Silva"
-            nickname= "@KleblerSilva"
-            />,
-            <FollowSuggestion 
             name="Lucas Silva"
             nickname= "@LucasSilva"
+            />,
+            <FollowSuggestion 
+            name="Kleber Silva"
+            nickname= "@KleblerSilva"
             />,
             <FollowSuggestion 
             name="Levi Silva"
